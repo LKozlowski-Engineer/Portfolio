@@ -1,10 +1,10 @@
 - name: Home
   link: /
 - name: About
-  link: /about.html
+  link: /about.md
 - name: Career Projects
-  link: /careerProjects.html
+  link: /careerProjects.md
 - name: Favorite Tools
-  link: /favoriteTools.html
+  link: /favoriteTools.md
 - name: Staff
-  link: /staff.html
+  link: /staff.md
