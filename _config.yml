@@ -33,6 +33,10 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+  # Added per Jekyll tutorial
+  # https://jekyllrb.com/docs/step-by-step/10-deployment/
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
