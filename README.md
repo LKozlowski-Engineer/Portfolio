@@ -1,1 +1,1 @@
-Followed the tutorial at https://jekyllrb.com/docs/step-by-step/01-setup/ on Mar'23 to create this website initially.
+Followed the tutorial at [Jekyll Ruby](https://jekyllrb.com/docs/step-by-step/01-setup/) on Mar'23 to create this website initially.
